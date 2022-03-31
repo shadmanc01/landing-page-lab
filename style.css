@@ -13,11 +13,19 @@ body {
 header {
     background-color: #c9f4fe;
     text-align: center;
+    height: 150px;
+    font-size: x-large;
+    font-style: italic;
+    margin: 5px;
 }
 
 p{
     
 }
 section{
-    
+    background-color: pink;
+    width: 300px;
+    height: 1200px;
+    font-size: x-large;
+    font-style: italic;
 }
