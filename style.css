@@ -1,1 +1,15 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
 
+body {
+    background-color: #c9f1c6;
+    
+}
+
+header {
+    background-color: #c9f4fe;
+    text-align: center;
+}
