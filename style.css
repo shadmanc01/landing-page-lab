@@ -6,26 +6,41 @@
 }
 
 body {
-    background-color: #c9f1c6;
+    background-color: #c7f2ef;
     
 }
 
 header {
-    background-color: #c9f4fe;
+    background-color: #cdb698;
     text-align: center;
     height: 150px;
-    font-size: x-large;
+    width: 1600px;
+    font-size: 36px;
     font-style: italic;
-    margin: 5px;
+    margin: auto;
+    position: absolute;
 }
 
 p{
     
 }
 section{
-    background-color: pink;
+    background-color: #bb6363;
     width: 300px;
     height: 1200px;
-    font-size: x-large;
+    font-size: large;
     font-style: italic;
+    top: 150px;
+    position: absolute;
+}
+
+.paragraph2{
+    position: absolute;
+    top: 180px;
+    left: 500px;
+    background-color: #c7f2ef;
+    width: 600px;
+    height:  800px;
+    font-size: 20px;
+    
 }
